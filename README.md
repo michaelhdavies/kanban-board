@@ -4,7 +4,6 @@
 
   Manage data about upcoming tasks after authenticating user.
 
-  ![](assets/demo-screenshot.jpg)
 
   ## Table of Contents
 
@@ -22,7 +21,10 @@
 
   Manage tasks on the front end once logged in as valid user.
 
-[Demo Video]() 
+  ### Mock-Up
+  ![](screenshots/screenshot-1.jpg)
+  ![](screenshots/screenshot-2.jpg)
+  ![](screenshots/screenshot-3.jpg)
 
   ## License
   This application is covered under the [MIT](https://opensource.org/licenses/MIT) license.
@@ -30,7 +32,9 @@
 
   ## Dev
 
-  Check out the [code](https://github.com/michaelhdavies/kanban-board).
+  Try the deployed [application](https://kanban-board-7v57.onrender.com).
+
+  Check out the [repo](https://github.com/michaelhdavies/kanban-board).
 
   Developed by [Michael Henry Davies](https://github.com/michaelhdavies/).
 
